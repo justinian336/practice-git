@@ -14,7 +14,7 @@ This chat example showcases how to use `socket.io` with a static `express` serve
 ## Running the server
 
 1) Open `server.js` and start the app by clicking on the "Run" button in the top menu.
-
+yolo
 2) Alternatively you can launch the app from the Terminal:
 
     $ node server.js
